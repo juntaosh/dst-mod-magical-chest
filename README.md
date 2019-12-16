@@ -14,13 +14,13 @@ There are two series of buttons beside the chest slots.
 
 The buttons under the slots are `Respawn`, `Sell`, `Sacrifice`, `Recycle`, `Display`, `Store` and `Withdraw`. 
 
-- Respawn will drop everything and respawn the player who click the button and have a Telltale Heart in the inventory, which means player can reselect the character. The process will consume a Telltale Heart in the player's inventory.
-- Sell can sell many things for goldnuggets.
-- Sacrifice will give you 5 goldnuggets at the cost of 50 health and 50 sanity. When player's health or sanity is not more than 50, the function will be disabled.
-- Recycle will destroy anything in the chest, which is made for dealing with the trash. Be aware, do not recycle unique things, such as chester eyebone.
-- Display will display the number of the gold nuggets that are stored in the Magical Chest.
-- Store will store the gold nuggets that are put into the Magical Chest.
-- Withdraw will withdraw the gold nuggets that are stored before. Every click will withdraw 20 gold nuggets. The insterest of gold nuggets is configurable. The default insterest is 1% per day.
+- `Respawn` will drop everything and respawn the player who click the button and have a Telltale Heart in the inventory, which means player can reselect the character. The process will consume a Telltale Heart in the player's inventory.
+- `Sell` can sell many things for goldnuggets.
+- `Sacrifice` will give you 5 goldnuggets at the cost of 50 health and 50 sanity. When player's health or sanity is not more than 50, the function will be disabled.
+- `Recycle` will destroy anything in the chest, which is made for dealing with the trash. Be aware, do not recycle unique things, such as chester eyebone.
+- `Display` will display the number of the gold nuggets that are stored in the Magical Chest.
+- `Store` will store the gold nuggets that are put into the Magical Chest.
+- `Withdraw` will withdraw the gold nuggets that are stored before. Every click will withdraw 20 gold nuggets. The insterest of gold nuggets is configurable. The default insterest is 1% per day.
 
 **The buttons on the right side are the main buttons of this mod. They are made for shopping. The currency is gold.**
 
