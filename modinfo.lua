@@ -1,9 +1,9 @@
-name = "Magical Chest"
+name = "Magical Chest 2"
 description = "A chest that can do plenty of things."
 
-author = "[BSy]Jupiter"
+author = "[BSy]Jupiter and Kima"
 
-version = "1.2.1"
+version = "2.0.0"
 
 api_version = 10
 api_version_dst = 10
